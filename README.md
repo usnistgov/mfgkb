@@ -12,6 +12,6 @@ Feedback and contributions are welcome and encouraged. Specific questions that w
 - How can manufacturers and solutions providers most effectively use this as a resource?
 - Does the structure provide enough flexibility for a variety of use cases?
 
-Reviewers may provide their feedback and contributions via email. Please contact [KC Morris](mailto:kcm@nist.gov), the project leader, for further information.
+Reviewers may provide their feedback and contributions as [GitHub issues](Providing\ Feedback.pdf) or via [email](mailto:kcm@nist.gov). Please contact [KC Morris](mailto:kcm@nist.gov), the project leader, for further information.
 
 Thank you in advance for your support.
