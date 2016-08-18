@@ -1,6 +1,6 @@
 # Manufacturing Knowledge Base
 
-This project provides a framework to support collaboration among manufacturers to identify problem areas and pool solutions and best practices. For more information, see the [Background](Background.md).
+This project provides a [Framework](Framework.xlsx) to support collaboration among manufacturers to identify problem areas and pool solutions and best practices. For more information, see the [Background](Background.md).
 
 ## Note to Reviewers
 
