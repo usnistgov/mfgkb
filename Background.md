@@ -6,4 +6,4 @@ The MfgKB Framework categorizes requirements for data-driven decision making aro
 
 Further Reading
 
-[Identifying Performance Assurance Challenges for Smart Manufacturing](http://www.nist.gov/manuscript-publication-search.cfm?pub_id=918552)
+Helu, M., et al, [Identifying Performance Assurance Challenges for Smart Manufacturing](http://www.nist.gov/manuscript-publication-search.cfm?pub_id=918552), Manufacturing Letters, November 11, 2015.
